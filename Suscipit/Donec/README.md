@@ -2,7 +2,7 @@
 title: Donec
 lead: Etiam facilisis ligula nec ex eleifend cursus.
 description: Sed a sapien vulputate, aliquam tellus sit amet, bibendum risus.
-parent: Nam
+parent: Departement Nam
 ---
 
 ## Donec vehicula lectus at erat scelerisque, iaculis congue urna ultrices.

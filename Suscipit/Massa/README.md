@@ -2,7 +2,7 @@
 title: Massa
 lead: Maecenas non ex bibendum massa fringilla blandit quis a risus.
 description: Nunc dapibus orci vel massa tempus, eu ultricies eros maximus.
-parent: Nam
+parent: Departement Nam
 ---
 
 ## Pellentesque vehicula dui ac velit maximus congue.
